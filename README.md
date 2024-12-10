@@ -1,2 +1,2 @@
 # Data-Management
-The various basic Python scripts I wrote for Data Management purposes
+The various basic Python scripts I wrote for Data Management purposes to be multi-use.
